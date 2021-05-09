@@ -1,16 +1,19 @@
 ---
 title: Renewable Resource Equipment Manufacturing
-created: '2020-11-10T17:22:49.317721'
-modified: '2020-11-10T17:22:49.317732'
+created: '2020-11-10T17:23:16.968796'
+modified: '2020-11-10T17:23:16.968806'
 state: active
 type: dataset
-tags: []
+tags:
+  - Business Energy Tax Credit
+  - Mfgbetc
+  - Obdd
+  - Renewable Resource Equipment Manufacturing
 groups:
   - Local Government
-csv_url: 'https://data.oregon.gov/api/views/mbzh-aqdc/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.oregon.gov/api/views/mbzh-aqdc/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.oregon.gov/api/views/wjvt-np9w/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.oregon.gov/api/views/wjvt-np9w/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Information Link: 
-http://www.oregon4biz.com/The-Oregon-Advantage/Incentives/Business-Energy-Tax-Credit
+OBDD Business Energy Tax Credit
