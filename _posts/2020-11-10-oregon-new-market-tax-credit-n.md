@@ -1,21 +1,22 @@
 ---
-title: Oregon New Market Tax Credit (NMTC) Program 2015
-created: '2020-11-10T17:21:47.589577'
-modified: '2020-11-10T17:21:47.589588'
+title: Oregon New Market Tax Credit (NMTC) 2016 - 2020
+created: '2020-11-10T17:22:54.276050'
+modified: '2020-11-10T17:22:54.276057'
 state: active
 type: dataset
 tags:
-  - '2015'
-  - New Market Tax Credit
-  - New Market Tax Credit Program
-  - Nmtc
-  - Nmtc 2015
-  - Oregon Nmtc
+  - Fiscal Year 2016
+  - Fiscal Year 2017
+  - Fiscal Year 2018
+  - Fiscal Year 2019
+  - Fiscal Year 2020
+  - Oregon New Market Tax Credit
+  - Transparency
 groups:
   - Local Government
-csv_url: 'https://data.oregon.gov/api/views/2369-h86j/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.oregon.gov/api/views/2369-h86j/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.oregon.gov/api/views/q44q-msd7/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.oregon.gov/api/views/q44q-msd7/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-For more information about this program and economic development go to: http://www.oregon.gov/transparency/Pages/Economic_Development.aspx
+Reporting covers July 1 to June 30, annually. Visit https://www.cdfifund.gov/awards/nmtc/Pages/default.aspx?state=OR&Name=Oregon for information on the federal program, CDE, and reporting. For more information on Oregon's program visit https://www.oregon4biz.com/Oregon-Business/Tax-Incentives/NMTC/
