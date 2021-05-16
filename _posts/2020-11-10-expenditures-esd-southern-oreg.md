@@ -1,7 +1,7 @@
 ---
-title: Expenditures ESD Southern Oregon FY 2013
-created: '2020-11-10T17:22:21.545809'
-modified: '2020-11-10T17:22:21.545817'
+title: Expenditures ESD Southern Oregon FY 2014
+created: '2020-11-10T17:22:28.414006'
+modified: '2020-11-10T17:22:28.414018'
 state: active
 type: dataset
 tags:
@@ -11,9 +11,9 @@ tags:
   - Southern Oregon Expenditures
 groups:
   - Local Government
-csv_url: 'https://data.oregon.gov/api/views/czqt-ibbi/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.oregon.gov/api/views/czqt-ibbi/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.oregon.gov/api/views/g2k8-huf8/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.oregon.gov/api/views/g2k8-huf8/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Summary of exependitures for Southern Oregon ESD for Fiscal Year 2013.
+Summary of expenditures for Southern Oregon ESD for Fiscal Year 2014.
