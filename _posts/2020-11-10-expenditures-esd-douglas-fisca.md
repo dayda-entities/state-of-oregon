@@ -1,19 +1,19 @@
 ---
-title: Expenditures ESD Douglas Fiscal Year 2013
-created: '2020-11-10T17:22:37.741126'
-modified: '2020-11-10T17:22:37.741136'
+title: Expenditures ESD Douglas Fiscal Year 2014
+created: '2020-11-10T17:23:04.181781'
+modified: '2020-11-10T17:23:04.181792'
 state: active
 type: dataset
 tags:
   - Douglas
   - Esd
   - Expenditures
-  - Fiscal Year 2013
+  - Fiscal Year 2014
 groups:
   - Local Government
-csv_url: 'https://data.oregon.gov/api/views/i7vf-db39/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.oregon.gov/api/views/i7vf-db39/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.oregon.gov/api/views/sup8-573q/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.oregon.gov/api/views/sup8-573q/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Expenditures for Douglas ESD for Fiscal Year 2013
+Expenditures for Douglas ESD for Fiscal Year 2014
