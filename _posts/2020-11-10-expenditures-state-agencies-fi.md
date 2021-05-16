@@ -1,15 +1,19 @@
 ---
-title: Expenditures State Agencies Fiscal Year 2011
-created: '2020-11-10T17:21:55.902548'
-modified: '2020-11-10T17:21:55.902560'
+title: Expenditures State Agencies Fiscal Year 2014
+created: '2020-11-10T17:22:27.623976'
+modified: '2020-11-10T17:22:27.623986'
 state: active
 type: dataset
-tags: []
+tags:
+  - '2014'
+  - Agency Expenditures
+  - All Agency Expenditures
+  - State Agency Expenditures 2014
 groups:
   - Local Government
-csv_url: 'https://data.oregon.gov/api/views/4j6h-st85/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.oregon.gov/api/views/4j6h-st85/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.oregon.gov/api/views/fiq8-t94u/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.oregon.gov/api/views/fiq8-t94u/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-This report provides information on expenditures (i.e., cash transactions/payments) for the agencies that utilize the State Financial Management Application (SFMA) issued for the fiscal year 2011 (July 1, 2010 - June 30, 2011). See the Oregon Transparency Website Expenditure page for more detail: http://oregon.gov/transparency/expenditures.page
+A list of expenditures for state agencies for Fiscal Year 2014. Sorted by Agency Number.
