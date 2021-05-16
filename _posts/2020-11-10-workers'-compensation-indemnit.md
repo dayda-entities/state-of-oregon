@@ -1,24 +1,32 @@
 ---
-title: Workers' Compensation Indemnity PPD Data
-created: '2020-11-10T17:22:54.415873'
-modified: '2020-11-10T17:22:54.415884'
+title: Workers' Compensation Indemnity Resolutions Data
+created: '2020-11-10T17:23:18.859429'
+modified: '2020-11-10T17:23:18.859436'
 state: active
 type: dataset
 tags:
+  - Claim Closure
+  - Claim Resolution
   - Indemnity Benefits
   - Oregon
-  - Permanent Partial Disability
-  - Ppd
+  - Td
+  - Temporary Disability
+  - Tpd
+  - Ttd
   - Workers Compensation
 groups:
   - Local Government
-csv_url: 'https://data.oregon.gov/api/views/q9aa-cbyu/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.oregon.gov/api/views/q9aa-cbyu/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.oregon.gov/api/views/xivj-ez7w/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.oregon.gov/api/views/xivj-ez7w/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Oregon workers' compensation paid indemnity data. The data is presented in the Department of Consumer and Business Services report at https://www.oregon.gov/dcbs/reports/compensation/Pages/index.aspx. The attached pdf provides definitions of the data.
+Oregon workers' compensation indemnity data. The data is presented in the Department of Consumer and Business Services report at https://www.oregon.gov/dcbs/reports/compensation/Pages/index.aspx. The attached pdf provides definitions of the data.
 
-Workers’ compensation pays PPD benefits for the permanent loss of use or function of any portion of the body resulting from a compensable injury. PPD benefits are based on the benefits in statute at the time of injury, not the date of the award. These PPD data are reported by the year of the last claim closure. The average awards include the initial awards made by insurers and the net amounts awarded during the appeal process. Data will change as claims are opened and closed over time. 
+Claim resolutions: Most accepted disabling workers' compensation claims go through the claim closure process in which the insurer stops temporary disability payments and determines PPD. Accepted disabling claims may be resolved multiple times. Other claims are settled with claim disposition agreements (CDAs). In this table, claim closures and CDA settlements are called claim resolutions.
 
-The structure of PPD benefits underwent a major change in 2005. Prior to 2005, the benefits were based on statutory lists of scheduled and unscheduled body parts. For claims with injuries since 1/1/2005, the permanent impairment of all body parts and systems is rated in relation to the whole person. The benefit is based on the statewide average weekly wage multiplied by the percentage of impairment. Workers who have not been released to regular work are also entitled to a work disability award in addition to their impairment award.
+Average temporary disability days paid for claim resolutions: The figures are the average days of paid temporary disability, both temporary total disability and temporary partial disability, for the years’ resolutions. Missing data are estimated. Insurers do not report days for CDA resolutions; these are estimated.
+
+Resolved claims In this set of data, claims with multiple closures are counted once. If a claim is reopened and reclosed, it is counted by the year of the latest resolution. Therefore, historical data will change.
+
+For temporary disability, the days and average dollars include both temporary total disability and temporary partial disability. Missing data are estimated. Insurers do not report days for CDA resolutions; these are estimated.
