@@ -1,19 +1,19 @@
 ---
-title: Salaries ESD Harney; Fiscal Year 2014
-created: '2020-11-10T17:22:44.970272'
-modified: '2020-11-10T17:22:44.970283'
+title: Salaries ESD Harney; Fiscal Year 2013
+created: '2020-11-10T17:23:17.922317'
+modified: '2020-11-10T17:23:17.922330'
 state: active
 type: dataset
 tags:
   - Esd
-  - Fiscal Year 2014
+  - Fiscal Year 2013
   - Harney
   - Salaries
 groups:
   - Local Government
-csv_url: 'https://data.oregon.gov/api/views/k4t5-f7qp/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.oregon.gov/api/views/k4t5-f7qp/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.oregon.gov/api/views/wyhu-m44y/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.oregon.gov/api/views/wyhu-m44y/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Salries for Harney ESD for Fiscal Year 2014
+Salries for Harney ESD for Fiscal Year 2013
