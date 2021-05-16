@@ -1,20 +1,20 @@
 ---
 title: >-
-  Healthcare Worker Influenza Vaccination Data for Skilled Nursing Facilities,
+  Healthcare Worker Influenza Vaccination Data for Ambulatory Surgery Centers
   2016-2017
-created: '2020-11-10T17:23:18.740416'
-modified: '2020-11-10T17:23:18.740424'
+created: '2020-11-10T17:23:12.982340'
+modified: '2020-11-10T17:23:12.982350'
 state: active
 type: dataset
 tags:
-  - Healthcare Worker
-  - Influenza Vaccination
-  - Skilled Nursing Facilities
+  - Ambulatory Surgery
+  - Healthcare
+  - Vaccination Rates
 groups:
   - Local Government
-csv_url: 'https://data.oregon.gov/api/views/xgmv-ucx3/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.oregon.gov/api/views/xgmv-ucx3/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.oregon.gov/api/views/vety-vmwu/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.oregon.gov/api/views/vety-vmwu/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Data showing the vaccination rates of the healthcare workers in Oregon Skilled Nursing Facilities for the 2016 - 2017 flu season
+Data showing the vaccination rates of healthcare workers in Oregon Ambulatory Surgery Centers for the 2016 - 2017 flu season
